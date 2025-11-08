@@ -1,5 +1,7 @@
 # RGB2DEPTH
 
+![](README.png)
+
 🎥 Your camera can understand depth - no LiDAR, no stereo, just pixels. Using the [Depth Anything](https://depth-anything.github.io) model, a simple RGB video can be turned into a depth map!
 
 **What’s happening under the hood?**
